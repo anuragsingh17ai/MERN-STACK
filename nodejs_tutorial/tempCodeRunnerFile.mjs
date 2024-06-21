@@ -1,0 +1,1 @@
+console.log(subtract(5,4));
